@@ -1,0 +1,8 @@
+= Init
+
+:published_at: 2016-01-11
+:hp-tags: intro, stuff
+
+== How to set up a blog?
+
+Simply like that:) 
