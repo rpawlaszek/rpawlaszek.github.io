@@ -7,7 +7,8 @@
 
 Simply like that:) 
 
-:image:lapalma-2013.jpg[]
+image::lapalma-2013.jpg[]
+
 
 
 
