@@ -2,12 +2,13 @@
 
 :published_at: 2016-01-11
 :hp-tags: intro, stuff
+:hp-image: lapalma-2013.jpg
 
 == How to set up a blog?
 
 Simply like that:) 
 
-image::lapalma-2013.jpg[]
+
 
 
 
