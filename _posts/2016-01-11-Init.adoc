@@ -6,3 +6,8 @@
 == How to set up a blog?
 
 Simply like that:) 
+
+:image:lapalma-2013.jpg[]
+
+
+
